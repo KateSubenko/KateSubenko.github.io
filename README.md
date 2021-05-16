@@ -12,7 +12,6 @@ https://katesubenko.github.io/
 
 ## Какие задачи выполнял кто из участников
 
-Header, dropdown menu, People Are Talking About Fork section, html template, web deployment - **Екатерина Зубенко**  
+Header, dropdown menu, People Are Talking About Fork section, html template, web deployment - **Екатерина Зубенко**
 Revolutionary Editor section, Here is what you get section, Fork Subscription Pricing section, gulpfile.js - **Анастасия Застела**
-# Kate_Subenko.github.io
 # KateSubenko.github.io
